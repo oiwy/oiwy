@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @oiwy
-- 👀 I’m interested in Fullstack + DevSecOps
-- 🌱 I’m currently learning CS, WebSokets
+- 👀 I’m interested in Fullstack + CyberSec
+- 🌱 I’m currently learning CS and mo' mo' mo' things...
 - 📫 How to reach me? In my Telegram: @mewehi_oiwy
