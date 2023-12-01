@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @oiwy
-- 👀 I’m interested in Fullstack + CyberSec
+- 👋 Hi, I’m @oiwy aka Aleksey Popov
+- 👀 I’m interested in Fullstack development
 - 🌱 I’m currently learning CS and mo' mo' mo' things...
+- 🎓 I'm currently enrolled in school 21 from sber
 - 📫 How to reach me? In my Telegram: @mewehi_oiwy
