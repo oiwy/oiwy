@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img style="width: 200px; border-radius: 50%;" src="./assets/me.jpg" />
+  <img style="width: 200px;" src="./assets/me.png" />
 </div>
 
 - I'm a **frontend developer** who is constantly evolving.
