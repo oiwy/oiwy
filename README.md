@@ -1,11 +1,11 @@
 <div align="center">
-  <h2>
-    Hi there, I’m @oiwy aka <a href="https://t.me/mewehi_oiwy" target="_blank">Aleksey</a> 👀
-  </h2>
+  <img style="width: 200px;" src="./assets/ыыы.gif" />
 </div>
 
 <div align="center">
-  <img style="width: 200px;" src="./assets/me.png" />
+  <a href="https://t.me/mewehi_oiwy">
+    <img src="https://readme-typing-svg.herokuapp.com?font=&weight=600&size=28&duration=2000&pause=5000&center=true&vCenter=true&random=true&width=600&lines=Hi+there%2C+I%E2%80%99m+%40oiwy+aka+Aleksey" alt="Typing SVG" />
+  </a>
 </div>
 
 - I'm a **frontend developer** who is constantly evolving.
