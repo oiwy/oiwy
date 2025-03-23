@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=-apple-system%2CBlinkMacSystemFont%2C%22Segoe+UI%22%2C%22Noto+Sans%22%2CHelvetica%2CArial%2Csans-serif%2C%22Apple+Color+Emoji%22%2C%22Segoe+UI+Emoji%22&size=28&pause=1000&color=4493F8&center=true&vCenter=true&width=435&lines=Hello%2C+world!;I'm+frontend+developer..." alt="Typing SVG" />
-</p>
-
-<br/>
-
 ## My tech stack
 
 <p>
